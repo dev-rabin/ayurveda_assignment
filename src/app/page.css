@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to bottom right, green, skyblue);
+}
+
+.container{
+  background-color: white;
+  width: 21rem;
+  /* height: 90vh; */
+  margin: 10px auto;
+  border-radius: 16px;
+  padding: 8px;
+}
+.safety-div{
+  margin-bottom: 2rem;
+}
+.communication-div{
+  margin-bottom: 2rem;
+}
+.recommend-div{
+  margin-bottom: 2rem;
+}
+.thumb-icons span{
+  padding: 8px;
+  margin-right: 2rem;
+}
